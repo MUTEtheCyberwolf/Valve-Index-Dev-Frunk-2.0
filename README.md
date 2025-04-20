@@ -1,6 +1,5 @@
 
 ![DF2-0Dark_4k_Side](https://github.com/user-attachments/assets/1dd58191-7e5f-4a27-8bbd-adef62b5f374)
-Render made by @_lewdcifer
 
 # Valve Index Dev Frunk 2.0
 ![](https://img.shields.io/github/stars/MUTEtheCyberwolf/Valve-Index-Dev-Frunk-2.0) ![](https://img.shields.io/github/forks/MUTEtheCyberwolf/Valve-Index-Dev-Frunk-2.0) ![](https://img.shields.io/github/issues/MUTEtheCyberwolf/Valve-Index-Dev-Frunk-2.0)
